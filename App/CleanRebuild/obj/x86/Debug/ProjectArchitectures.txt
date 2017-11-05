@@ -1,0 +1,4 @@
+C:\Users\Deyuan\Documents\CleanRebuild\App\CleanRebuild\CleanRebuild.csproj;x86
+C:\Users\Deyuan\Documents\CleanRebuild\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\Deyuan\Documents\CleanRebuild\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\Deyuan\Documents\CleanRebuild\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
